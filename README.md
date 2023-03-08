@@ -1,2 +1,2 @@
 # tetragonal-ratio
-Machine learning informed tetragonal ratio c/a of martensite.
+The dataset and code of the work/manuscript.
